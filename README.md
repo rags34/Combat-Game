@@ -17,10 +17,10 @@ Files:
 - readme.txt: This file, providing instructions and information about the project.
 
 Author:
-[Your Name]
+Raghav Minhas
 
 Date:
-[Current Date]
+22-10-2023
 
 Note:
 This is a simple project for educational purposes and can be further expanded and customized as per specific requirements.
